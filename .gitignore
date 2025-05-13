@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Model output
+*.bin
+*.pt
+*.ckpt
+lora-deepseek-aggressive/
