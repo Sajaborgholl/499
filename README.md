@@ -16,3 +16,12 @@ This project fine-tunes a large language model (LLM) using LoRA, simulates neutr
 | `simulate_dialogue.py` | Simulates dialogue between two models (neutral vs aggressive) |
 | `neutral_aggressive_dialogue.py` | Simulates full multi-turn dialogues and visualizes emotional embeddings via PCA |
 | `Dataset for Detection of Cyber-Trolls.json` | Raw JSON dataset used for generating aggressive training samples |
+
+---
+
+## 🔧 Requirements
+
+Install all required dependencies using:
+
+```bash
+pip install -r requirements.txt
